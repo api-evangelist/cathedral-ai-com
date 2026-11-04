@@ -1,4 +1,4 @@
-# cathedral-ai-com
+# Cathedral AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,144 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-cathedral-ai-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://cathedral-ai.com/
+Cathedral provides an identity layer for AI agents, enabling persistent memory across sessions, drift detection, tamper‑proof snapshots, and peer verification. It is open‑source, self‑hostable, and works with any model, offering developers a way to track agent identity and ensure continuity of AI interactions.
+
+**Areas:** Company · AI · Identity · Agents · OpenSource
+
+## Cathedral AI on APIs.io
+
+Everything profiled for Cathedral AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cathedral-ai-com/](https://apis.io/providers/cathedral-ai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (29)
+
+- [Cathedral AI Activity API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-activity-api/) — The Activity API from Cathedral AI — 1 operation(s) for activity.
+- [Cathedral AI Anchor API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-anchor-api/) — The Anchor API from Cathedral AI — 1 operation(s) for anchor.
+- [Cathedral AI BCH Anchors API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-bch-anchors-api/) — The BCH Anchors API from Cathedral AI — 2 operation(s) for bch anchors.
+- [Cathedral AI Beacon API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-beacon-api/) — The Beacon API from Cathedral AI — 3 operation(s) for beacon.
+- [Cathedral AI Behaviour API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-behaviour-api/) — The Behaviour API from Cathedral AI — 1 operation(s) for behaviour.
+- [Cathedral AI Cathedral Memory Service API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-cathedral-memory-service-api/) — The Cathedral Memory Service API from Cathedral AI — 1 operation(s) for cathedral memory service.
+- [Cathedral AI Conflicts API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-conflicts-api/) — The Conflicts API from Cathedral AI — 2 operation(s) for conflicts.
+- [Cathedral AI Donate API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-donate-api/) — The Donate API from Cathedral AI — 1 operation(s) for donate.
+- [Cathedral AI Drift API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-drift-api/) — The Drift API from Cathedral AI — 2 operation(s) for drift.
+- [Cathedral AI Goals API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-goals-api/) — The Goals API from Cathedral AI — 2 operation(s) for goals.
+- [Cathedral AI Health API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-health-api/) — The Health API from Cathedral AI — 1 operation(s) for health.
+- [Cathedral AI Me API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-me-api/) — The Me API from Cathedral AI — 1 operation(s) for me.
+- [Cathedral AI Memories API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-memories-api/) — The Memories API from Cathedral AI — 5 operation(s) for memories.
+- [Cathedral AI Obligations API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-obligations-api/) — The obligations API from Cathedral AI — 3 operation(s) for obligations.
+- [Cathedral AI Provenance API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-provenance-api/) — The provenance API from Cathedral AI — 4 operation(s) for provenance.
+- [Cathedral AI Recover API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-recover-api/) — The Recover API from Cathedral AI — 1 operation(s) for recover.
+- [Cathedral AI Register API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-register-api/) — The Register API from Cathedral AI — 1 operation(s) for register.
+- [Cathedral AI Registrar API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-registrar-api/) — The registrar API from Cathedral AI — 6 operation(s) for registrar.
+- [Cathedral AI Robots.txt API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-robots-txt-api/) — The Robots.txt API from Cathedral AI — 1 operation(s) for robots.txt.
+- [Cathedral AI Sitemap.xml API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-sitemap-xml-api/) — The Sitemap.xml API from Cathedral AI — 1 operation(s) for sitemap.xml.
+- [Cathedral AI Snapshot API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-snapshot-api/) — The Snapshot API from Cathedral AI — 2 operation(s) for snapshot.
+- [Cathedral AI Snapshots API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-snapshots-api/) — The Snapshots API from Cathedral AI — 1 operation(s) for snapshots.
+- [Cathedral AI Spaces API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-spaces-api/) — The Spaces API from Cathedral AI — 3 operation(s) for spaces.
+- [Cathedral AI Subscribe API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-subscribe-api/) — The Subscribe API from Cathedral AI — 1 operation(s) for subscribe.
+- [Cathedral AI Succession API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-succession-api/) — The succession API from Cathedral AI — 4 operation(s) for succession.
+- [Cathedral AI Trust API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-trust-api/) — The trust API from Cathedral AI — 1 operation(s) for trust.
+- [Cathedral AI Verify API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-verify-api/) — The Verify API from Cathedral AI — 2 operation(s) for verify.
+- [Cathedral AI Wake API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-wake-api/) — The Wake API from Cathedral AI — 1 operation(s) for wake.
+- [Cathedral AI .well Known API](https://apis.io/apis/cathedral-ai-com/cathedral-ai-com-well-known-api/) — The .well Known API from Cathedral AI — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Cathedral Ai Com Agentic Access](https://apis.io/agentic-access/cathedral-ai-com/cathedral-ai-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AcceptRequest](https://apis.io/schemas/cathedral-ai-com/cathedral-ai-com-accept-request/)
+- [ExternalSignatureRequest](https://apis.io/schemas/cathedral-ai-com/cathedral-ai-com-external-signature-request/)
+- [MemoryStore](https://apis.io/schemas/cathedral-ai-com/cathedral-ai-com-memory-store/)
+- [MemoryUpdate](https://apis.io/schemas/cathedral-ai-com/cathedral-ai-com-memory-update/)
+- [ObligationCreate](https://apis.io/schemas/cathedral-ai-com/cathedral-ai-com-obligation-create/)
+- [SourceCreate](https://apis.io/schemas/cathedral-ai-com/cathedral-ai-com-source-create/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cathedral Ai Com Context](https://apis.io/jsonld/cathedral-ai-com/cathedral-ai-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Cathedral AI API Rules](https://apis.io/rules/cathedral-ai-com/cathedral-ai-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cathedral Ai Com Domain Security](https://apis.io/security/cathedral-ai-com/cathedral-ai-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cathedral-ai.com/)
+- [Documentation](https://cathedral-ai.com/docs)
+- [Getting started](https://cathedral-ai.com/quickstart)
+
+## API Evangelist rating
+
+**Kin Score 33.0** — thin · rubric 0.25.0 · scored 2026-11-04
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 51.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 29.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cathedral-ai-com/](https://apis.io/providers/cathedral-ai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cathedral AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cathedral-ai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
